@@ -72,7 +72,7 @@ updatePlayerCount()
 
 local section = AddSection(Main, {"Welcome To Shnmaxhub "})
 local section = AddSection(Main, {"Team | Shnmaxscripts Owner"})
-local section = AddSection(Main, {"Members: John_Doe NOEL_A21S Dogday"})
+local section = AddSection(Main, {"Members: Gued3s2014"})
 local section = AddSection(Main, {"Script Development Helpers: XxxTentacion The Lucca"})
 local section = AddSection(Main, {"Last Update to Hub: 17/Day/2024/Year/Jun/Month"})
 local section = AddSection(Main, {"Code Developed By: Shnmaxscripts Owner"})
